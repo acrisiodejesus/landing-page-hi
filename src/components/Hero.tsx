@@ -21,7 +21,7 @@ export default function Hero() {
         </div>
         <div className="relative h-[400px]">
           <img
-            src="/api/placeholder/600/400"
+            src="/designer_1.png"
             alt="Product illustration"
             className="object-contain"
           />

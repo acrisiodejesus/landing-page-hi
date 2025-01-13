@@ -3,12 +3,17 @@ export default function Features() {
     {
       title: "Light, Fast & Powerful",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      image: "/api/placeholder/200/200",
+      image: "/undraw_happy_news_hxmt.png",
     },
     {
       title: "Light, Fast & Powerful",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      image: "/api/placeholder/200/200",
+      image: "undraw_social_influencer_sgsv.png",
+    },
+    {
+      title: "Light, Fast & Powerful",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      image: "undraw_mention_6k5d.png",
     },
   ];
 
