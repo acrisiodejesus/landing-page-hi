@@ -83,7 +83,3 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 ## Suporte
 
 Se você encontrar algum problema ou tiver sugestões, por favor abra uma issue no GitHub.
-
-## Contato
-
-Link do Projeto: [https://github.com/seunome/landing-page](https://github.com/seunome/landing-page)
