@@ -19,7 +19,7 @@ export default function Hero() {
             </button>
           </div>
         </div>
-        <div className="relative h-[400px]">
+        <div className="relative h-[50vh]">
           <img
             src="/designer_1.png"
             alt="Product illustration"
