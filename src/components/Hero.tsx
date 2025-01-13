@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="bg-gray-50 px-5 py-16 mt-4">
+    <section className="bg-gray-50 px-5 py-16 ">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div>
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
@@ -23,7 +23,7 @@ export default function Hero() {
           <img
             src="/designer_1.png"
             alt="Product illustration"
-            className="object-contain"
+            className="object-contain h-[50vh]"
           />
         </div>
       </div>

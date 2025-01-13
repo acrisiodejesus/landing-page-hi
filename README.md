@@ -16,6 +16,7 @@ Uma landing page moderna e responsiva construída com Next.js, TypeScript e Tail
 
 ## Tecnologias Utilizadas
 
+- [React.js 19](https://react.dev/)
 - [Next.js 14](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
